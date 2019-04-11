@@ -5,12 +5,10 @@ var app = {
 			.done(app.showCards, app.onSuccess)
 			.fail(app.onError);
 	},
-
 	showCards(dataJson) {
 		console.log(dataJson);
 
 	},
-
 	onSuccess: function (jsonData) {
 		let list = jsonData.cardList;
 		list.forEach(element => {
