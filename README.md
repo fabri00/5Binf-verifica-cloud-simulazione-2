@@ -11,7 +11,7 @@ Il compito è diviso in tre fasi:
 1. benchmark delle prestazioni
 
 Operazioni preliminari:
-- [ ] accedete con il vostro account personale a GitHub (**non sbagliate password!**)
+- [X] accedete con il vostro account personale a GitHub (**non sbagliate password!**)
 - [ ] fate il fork di questo progetto, ma **attenzione**: se vi viene chiesto, fate il fork sul vostro account personale e non sull'organizzazione del progetto di classe
 - [ ] copiate l'URL del **vostro** progetto
 - [ ] aprite Visual Studio Code
